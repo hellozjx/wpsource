@@ -1,0 +1,2 @@
+# wpsource
+Wordpress static source
