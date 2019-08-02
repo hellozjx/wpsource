@@ -227,7 +227,7 @@ h1.entry-title {
     padding: 2px;
     text-shadow: none;
     border-radius: 0 0 5px 5px;
-    cursor: url(https://cdn.jsdelivr.net/gh/hellozjx/wpsource@.{5}/img/Hellozjx/cursor/texto.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/hellozjx/wpsource@1.0.3/img/Hellozjx/cursor/texto.cur), auto
 }
 
 .highlight-wrap code[data-rel]:before {
