@@ -1,7 +1,7 @@
 @charset "utf-8";
 /*
-Theme Name: Sakura
-Theme URI: https://2heng.xin/theme-sakura/
+Theme Name: Hellozjx
+Theme URI: https://2heng.xin/theme-hellozjx/
 Author: Mashiro, Louie, Fuzzz
 Author URI: http://2heng.xin
 Description: Akina主题分支（原版地址 http://www.akina.pw/themeakina）
@@ -847,7 +847,7 @@ a:hover {
     }
 }
 
-.pattern-center-sakura {
+.pattern-center-hellozjx {
     position: relative;
     top: 0;
     left: 0;
@@ -862,7 +862,7 @@ a:hover {
 }
 
 @media (max-width:860px) {
-    .pattern-center-sakura {
+    .pattern-center-hellozjx {
         position: relative;
         top: 0;
         left: 0;
@@ -874,7 +874,7 @@ a:hover {
     }
 }
 
-.pattern-center-sakura::before {
+.pattern-center-hellozjx::before {
     content: "";
     position: absolute;
     top: 0;
@@ -893,7 +893,7 @@ a:hover {
     height: 400px
 }
 
-.pattern-center-sakura header.pattern-header {
+.pattern-center-hellozjx header.pattern-header {
     position: absolute;
     top: 45%;
     left: 0;
@@ -903,8 +903,8 @@ a:hover {
     z-index: 1
 }
 
-.pattern-center-sakura h1.cat-title,
-.pattern-center-sakura h1.entry-title {
+.pattern-center-hellozjx h1.cat-title,
+.pattern-center-hellozjx h1.entry-title {
     color: #FFF;
     font-size: 40px;
     font-weight: 500;
@@ -914,7 +914,7 @@ a:hover {
     border: 0
 }
 
-.pattern-center-sakura .cat-des {
+.pattern-center-hellozjx .cat-des {
     font-size: 16px;
     display: block
 }
@@ -923,7 +923,7 @@ a:hover {
     display: none
 }
 
-.pattern-center-sakura header.single-header {
+.pattern-center-hellozjx header.single-header {
     max-width: 800px;
     padding: 0 10px;
     margin-left: auto;
@@ -963,14 +963,14 @@ a:hover {
 }
 
 @media (max-width:860px) {
-    .pattern-center-sakura header.single-header {
+    .pattern-center-hellozjx header.single-header {
         padding: 0 4%
     }
     .pattern-attachment-img {
         height: 280px
     }
-    .pattern-center-sakura h1.cat-title,
-    .pattern-center-sakura h1.entry-title,
+    .pattern-center-hellozjx h1.cat-title,
+    .pattern-center-hellozjx h1.entry-title,
     .single-center .single-header h1.entry-title {
         font-size: 26px
     }
@@ -6927,7 +6927,7 @@ input[type=radio]:checked:before {
 }
 
 .mashiro-author-info {
-    background: url(//static.mashiro.top/wp-content/themes/Sakura/images/LOGO-Unicorn-Gradient.svg);
+    background: url(//static.mashiro.top/wp-content/themes/Hellozjx/images/LOGO-Unicorn-Gradient.svg);
     width: 200px;
     height: 200px;
     margin: auto
