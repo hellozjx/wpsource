@@ -1,2 +1,2 @@
 # wpsource
-Wordpress static source
+Wordpress static resources
